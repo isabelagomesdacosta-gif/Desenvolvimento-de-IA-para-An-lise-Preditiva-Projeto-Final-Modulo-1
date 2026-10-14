@@ -121,8 +121,7 @@ Prever sempre ausência de falha alcançaria 96,63% de acurácia no teste sem nu
 
 O trabalho foi organizado por fases do pipeline, mantendo a base original e versões separadas para comparar os tratamentos.
 
-## Vídeo e entrega
+## Vídeo 
 
-**Link do vídeo: a adicionar após a gravação.**
-
+[https://drive.google.com/file/d/1VP9j3DkZYHQSYFTIYYAU6NwgefyVvnGC/view?usp=sharing]
 
